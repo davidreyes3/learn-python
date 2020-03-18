@@ -1,0 +1,5 @@
+r - read only, is default
+w - write only, cant read contents, WILL DELETE CONTENT WHEN OPENING
+a - append
+r+, read-write
+if you open a file and the file already exists, the old contents will be deleted as soon as the file is opened
